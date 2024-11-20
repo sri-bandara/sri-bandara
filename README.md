@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-I'm Chamindu, a data science undergraduate interested in all things Python & Data Science!
+I'm Sri, a data science undergraduate interested in all things Python & Data Science!
 
 - 🔭 I’m currently working on entry level data analysis projects.
 - 🌱 I’m currently learning Python data science libraries.
