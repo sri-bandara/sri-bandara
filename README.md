@@ -1,6 +1,6 @@
 ### Hello! 👋🏽
 
-My name is Sri and I'm a data science undergraduate at Deakin university Melbourne.
+My name is Sri and I'm a data science undergraduate at Deakin university in Melbourne Australia.
 
 - 🔭 I’m currently working on exploratory data analysis projects.
 - 🌱 I’m currently learning Python data science libraries.
