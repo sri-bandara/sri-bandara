@@ -2,7 +2,7 @@
 
 I'm Sri, a data science undergraduate interested in all things Python & Data Science!
 
-- 🔭 I’m currently working on entry level data analysis projects.
+- 🔭 I’m currently working on data analysis projects.
 - 🌱 I’m currently learning Python data science libraries.
 - 🤝🏽 I’m looking to collaborate on projects related to data analysis and visualization using Python.
 - ✉️ You can reach me at: chamindub@outlook.com
