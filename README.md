@@ -2,9 +2,9 @@
 
 My name is Sri and I'm a data science undergraduate at Deakin university in Melbourne Australia.
 
-- 🔭 I’m currently working on exploratory data analysis projects using sql, tableau and python.
-- 🚀 I’m currently learning python data science libraries.
-- 🤝🏽 I’m looking to collaborate on projects related to exploratory data analysis using python.
+- 🔭 I’m currently working on EDA and ML projects using sql, tableau and python.
+- 🚀 I’m currently learning python machine learning libraries.
+- 🤝🏽 I’m looking to collaborate on projects related to EDA and ML using python.
 - ✉️ You can reach me at: chamindub@outlook.com
 
 <!--
