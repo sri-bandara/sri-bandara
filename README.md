@@ -1,6 +1,6 @@
 ### Hello! 👋🏽
 
-My name is Sri and I'm a data science undergraduate at Deakin university Melbourne .
+My name is Sri and I'm a data science undergraduate at Deakin University.
 
 - 🔭 I’m currently working on Machine Learning projects using python and tensorflow.
 - 🚀 I’m currently learning different machine learning algorithms and statistics.
