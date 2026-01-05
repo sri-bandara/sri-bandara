@@ -3,7 +3,7 @@
 My name is Sri and I'm a data science undergraduate at Deakin University.
 
 - 🔭 I’m currently working on Machine Learning projects using python and tensorflow.
-- 🚀 I’m currently learning different machine learning algorithms and statistics.
+- 🚀 I’m currently learning different deep learning, statistics and ml-ops.
 - 🤝🏽 I’m looking to collaborate on projects related to Machine Learning using python.
 - ✉️ You can reach me at: sri.bandara@outlook.com
 
