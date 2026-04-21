@@ -1,10 +1,9 @@
 ### Hello! 👋🏽
 
-My name is Sri and I'm a data science undergraduate at Deakin University.
+My name is Sri and I'm a final year data science undergraduate at Deakin University.
 
-- 🔭 I’m currently working on Machine Learning projects using python and tensorflow.
-- 🚀 I’m currently learning different deep learning, statistics and ml-ops.
-- 🤝🏽 I’m looking to collaborate on projects related to Machine Learning using python.
+- 🔭 I’m currently working on Machine Learning and Deep Learning projects using python and pytorch.
+- 🚀 I’m currently learning deep learning and ml-ops.
 - ✉️ You can reach me at: sri.bandara@outlook.com
 
 <!--
