@@ -3,7 +3,7 @@
 My name is Sri and I'm a final year data science undergraduate at Deakin University.
 
 - 🔭 I’m currently working on ML, DL and RAG using python, pytorch and Langchain.
-- 🚀 I’m currently learning ml-ops and Advanced RAG. 
+- 🚀 I’m currently learning ML-ops and Advanced RAG. 
 - ✉️ You can reach me at: sri.bandara@outlook.com
 
 <!--
