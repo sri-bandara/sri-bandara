@@ -1,6 +1,6 @@
 ### Hello! 👋🏽
 
-My name is Sri and I'm a final year data science student at Deakin University.
+My name is Sri and I'm a fresh data science graduate from Deakin University.
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning projects using Python and PyTorch. 
 - 🚀 I’m learning Advanced RAG with LangChain and LangGraph for agentic AI.
